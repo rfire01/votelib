@@ -1,0 +1,11 @@
+3
+1,Pang Tong 
+2,Vlandis Guzman 
+7,Obertas Palamarchuk 
+9,9,6
+5,7,2,1
+4,2,7,1
+0,1,7,2
+0,2,1,7
+0,7,1,2
+0,1,2,7

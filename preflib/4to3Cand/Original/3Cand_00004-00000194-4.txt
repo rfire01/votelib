@@ -1,0 +1,11 @@
+3
+2,War Games 
+3,Top Gun 
+4,National Lampoon's Animal House 
+418,418,6
+149,4,2,3
+60,2,4,3
+58,3,2,4
+56,2,3,4
+54,4,3,2
+41,3,4,2

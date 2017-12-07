@@ -1,0 +1,11 @@
+3
+2,Mystic River 
+3,You've Got Mail 
+4,Waiting for Guffman 
+362,362,6
+129,4,2,3
+125,2,4,3
+53,2,3,4
+23,3,2,4
+19,4,3,2
+13,3,4,2

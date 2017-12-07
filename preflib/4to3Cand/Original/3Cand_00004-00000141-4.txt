@@ -1,0 +1,11 @@
+3
+2,An Officer and a Gentleman 
+3,Dirty Dancing 
+4,Unforgiven 
+378,378,6
+190,4,2,3
+51,2,4,3
+45,4,3,2
+37,3,2,4
+30,2,3,4
+25,3,4,2

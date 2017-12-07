@@ -1,0 +1,11 @@
+3
+2,National Lampoon's Animal House 
+3,Lethal Weapon 4 
+4,XXX: Special Edition 
+485,485,6
+249,2,3,4
+135,2,4,3
+42,3,2,4
+24,3,4,2
+20,4,3,2
+15,4,2,3

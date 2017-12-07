@@ -1,0 +1,11 @@
+3
+2,The Lost World: Jurassic Park 
+3,Payback 
+4,Lethal Weapon 4 
+4,4,6
+1,3,4,2
+1,4,3,2
+1,3,2,4
+1,4,2,3
+0,2,3,4
+0,2,4,3

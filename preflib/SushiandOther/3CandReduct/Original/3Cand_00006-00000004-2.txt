@@ -1,0 +1,11 @@
+3
+1,Krasiltseva Chestnikh 
+2,Nekrassova Mintals 
+4,Asanaki Mckeever 
+9,9,6
+9,4,2,1
+0,2,1,4
+0,1,4,2
+0,2,4,1
+0,4,1,2
+0,1,2,4

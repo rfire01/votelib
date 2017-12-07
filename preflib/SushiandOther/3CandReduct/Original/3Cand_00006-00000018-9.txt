@@ -1,0 +1,11 @@
+3
+1,Kawai And Tanaka 
+2,Smetanenko And Gezalian 
+11,Chait And Sakhnovsky 
+9,9,6
+7,11,1,2
+2,11,2,1
+0,1,11,2
+0,2,1,11
+0,2,11,1
+0,1,2,11

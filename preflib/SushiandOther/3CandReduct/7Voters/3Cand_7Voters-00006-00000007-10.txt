@@ -1,0 +1,11 @@
+3
+1,Gerencser Camerlengo 
+2,Smetanenko Gezalian 
+12,Hugentobler Hugentobler 
+7,7,6
+4,1,2,12
+3,1,12,2
+0,12,2,1
+0,2,12,1
+0,2,1,12
+0,12,1,2

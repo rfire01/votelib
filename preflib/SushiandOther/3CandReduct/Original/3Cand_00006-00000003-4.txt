@@ -1,0 +1,11 @@
+3
+1,Berankova Dlabola 
+2,Filonenko Marchenko 
+6,Asanaki Mckeever 
+9,9,6
+9,2,1,6
+0,6,2,1
+0,1,6,2
+0,1,2,6
+0,6,1,2
+0,2,6,1

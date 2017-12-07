@@ -1,0 +1,11 @@
+3
+1,Sargeant And Wirtz 
+2,Abitbol And Bernadis 
+6,Filonenko And Marchenco 
+5,5,6
+4,2,1,6
+1,2,6,1
+0,6,2,1
+0,1,6,2
+0,1,2,6
+0,6,1,2

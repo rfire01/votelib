@@ -1,0 +1,11 @@
+3
+1,Gerencser Camerlengo 
+2,Smetanenko Gezalian 
+7,Clements Shortland 
+9,9,6
+6,1,7,2
+3,1,2,7
+0,7,2,1
+0,2,1,7
+0,2,7,1
+0,7,1,2

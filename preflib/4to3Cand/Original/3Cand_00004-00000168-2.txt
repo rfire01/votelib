@@ -1,0 +1,11 @@
+3
+1,The Santa Clause 
+2,The Silence of the Lambs 
+4,Mystic River 
+405,405,6
+254,2,4,1
+64,4,2,1
+50,2,1,4
+17,1,2,4
+10,1,4,2
+10,4,1,2

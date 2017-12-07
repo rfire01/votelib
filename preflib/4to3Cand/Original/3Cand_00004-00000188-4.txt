@@ -1,0 +1,11 @@
+3
+2,Cheaper by the Dozen 
+3,The Fifth Element 
+4,Maid in Manhattan 
+623,623,6
+303,3,2,4
+106,3,4,2
+94,2,3,4
+70,2,4,3
+35,4,2,3
+15,4,3,2

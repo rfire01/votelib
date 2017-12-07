@@ -1,0 +1,11 @@
+3
+1,Pang Tong 
+2,Vlandis Guzman 
+12,Kokhanevich Dubina 
+9,9,6
+7,2,1,12
+2,2,12,1
+0,12,2,1
+0,12,1,2
+0,1,12,2
+0,1,2,12

@@ -1,0 +1,11 @@
+3
+1,Gerencser Camerlengo 
+2,Smetanenko Gezalian 
+8,Merzova Morbacher 
+5,5,6
+4,1,8,2
+1,1,2,8
+0,8,2,1
+0,2,8,1
+0,8,1,2
+0,2,1,8

@@ -1,0 +1,11 @@
+3
+1,Berankova Dlabola 
+2,Filonenko Marchenko 
+4,Rodionova Anichenko 
+7,7,6
+6,2,1,4
+1,2,4,1
+0,1,4,2
+0,4,2,1
+0,4,1,2
+0,1,2,4

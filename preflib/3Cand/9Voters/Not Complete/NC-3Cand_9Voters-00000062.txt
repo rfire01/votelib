@@ -1,0 +1,11 @@
+3
+1,The Replacement Killers 
+2,Mystic River 
+3,The Thomas Crown Affair 
+9,9,6
+3,2,3,1
+2,3,2,1
+2,2,1,3
+1,3,1,2
+0,1,3,2
+0,1,2,3

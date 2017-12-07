@@ -1,0 +1,11 @@
+3
+1,Beverly Hills Cop 
+2,Maid in Manhattan 
+4,Secretary 
+5,5,6
+2,4,1,2
+2,1,4,2
+1,1,2,4
+0,2,1,4
+0,4,2,1
+0,2,4,1

@@ -1,0 +1,11 @@
+3
+2,Son in Law 
+3,The Aviator 
+4,National Lampoon's European Vacation 
+366,366,6
+151,3,4,2
+82,4,3,2
+55,3,2,4
+30,4,2,3
+25,2,3,4
+23,2,4,3

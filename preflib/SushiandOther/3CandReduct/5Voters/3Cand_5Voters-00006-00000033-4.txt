@@ -1,0 +1,11 @@
+3
+1,Arikawa Miyamoto 
+2,Gustafsson Gronlund 
+6,Pogossian Kirsanov 
+5,5,6
+5,6,1,2
+0,6,2,1
+0,2,1,6
+0,1,6,2
+0,1,2,6
+0,2,6,1

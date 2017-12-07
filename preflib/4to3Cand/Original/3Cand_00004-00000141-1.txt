@@ -1,0 +1,11 @@
+3
+1,Bad Boys 
+2,An Officer and a Gentleman 
+3,Dirty Dancing 
+378,378,6
+99,2,3,1
+90,2,1,3
+82,1,2,3
+54,3,2,1
+29,3,1,2
+24,1,3,2

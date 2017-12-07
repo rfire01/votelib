@@ -1,0 +1,11 @@
+3
+1,Szabolcs Vidrai 
+2,Takeshi Honda 
+4,Anthony Liu 
+9,9,6
+4,2,1,4
+4,1,2,4
+1,2,4,1
+0,1,4,2
+0,4,2,1
+0,4,1,2

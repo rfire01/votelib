@@ -1,0 +1,11 @@
+3
+1,Arikawa Miyamoto 
+2,Gustafsson Gronlund 
+4,Yang Lee 
+7,7,6
+5,1,2,4
+2,1,4,2
+0,2,1,4
+0,4,2,1
+0,2,4,1
+0,4,1,2

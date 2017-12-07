@@ -1,0 +1,11 @@
+3
+1,Arikawa Miyamoto 
+2,Gustafsson Gronlund 
+11,Timofejeva Striganov 
+7,7,6
+7,1,2,11
+0,11,1,2
+0,1,11,2
+0,2,1,11
+0,11,2,1
+0,2,11,1

@@ -1,0 +1,11 @@
+3
+1,Yosuke Takeuchi 
+2,Jose Alonso 
+8,Alexei Gruber 
+7,7,6
+7,1,8,2
+0,8,2,1
+0,2,8,1
+0,1,2,8
+0,8,1,2
+0,2,1,8

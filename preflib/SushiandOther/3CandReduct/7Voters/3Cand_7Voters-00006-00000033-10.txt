@@ -1,0 +1,11 @@
+3
+1,Arikawa Miyamoto 
+2,Gustafsson Gronlund 
+12,Currie Smith 
+7,7,6
+7,12,1,2
+0,12,2,1
+0,2,12,1
+0,2,1,12
+0,1,12,2
+0,1,2,12

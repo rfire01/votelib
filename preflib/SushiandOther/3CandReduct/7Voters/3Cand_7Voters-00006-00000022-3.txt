@@ -1,0 +1,11 @@
+3
+1,Yosuke Takeuchi 
+2,Jose Alonso 
+5,Balint Miklos 
+7,7,6
+7,1,2,5
+0,2,5,1
+0,2,1,5
+0,5,2,1
+0,1,5,2
+0,5,1,2

@@ -1,0 +1,11 @@
+3
+1,Kalesnik Terentjev 
+2,Hugentobler Hugentobler 
+11,Gerencser Camerlengo 
+7,7,6
+5,11,2,1
+2,11,1,2
+0,1,11,2
+0,2,1,11
+0,2,11,1
+0,1,2,11

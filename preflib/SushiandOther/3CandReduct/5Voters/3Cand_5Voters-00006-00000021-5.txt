@@ -1,0 +1,11 @@
+3
+1,Vincent Restencourt 
+2,Michael Amentas 
+7,Lukas Rakowski 
+5,5,6
+3,7,1,2
+2,1,7,2
+0,7,2,1
+0,2,1,7
+0,2,7,1
+0,1,2,7

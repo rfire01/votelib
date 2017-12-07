@@ -1,0 +1,11 @@
+3
+2,Lost in Translation 
+3,Intolerable Cruelty 
+4,Say Anything 
+5,5,6
+2,4,3,2
+1,4,2,3
+1,2,4,3
+0,3,4,2
+0,2,3,4
+0,3,2,4

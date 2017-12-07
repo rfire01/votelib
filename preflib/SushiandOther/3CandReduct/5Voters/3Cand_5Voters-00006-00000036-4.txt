@@ -1,0 +1,11 @@
+3
+1,Szabolcs Vidrai 
+2,Takeshi Honda 
+6,Evgeni Plushenko 
+5,5,6
+3,6,2,1
+2,6,1,2
+0,2,1,6
+0,1,6,2
+0,1,2,6
+0,2,6,1

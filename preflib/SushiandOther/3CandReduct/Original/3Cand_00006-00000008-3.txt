@@ -1,0 +1,11 @@
+3
+1,Kalesnik Terentjev 
+2,Hugentobler Hugentobler 
+5,Merzova Morbacher 
+9,9,6
+7,5,2,1
+2,5,1,2
+0,2,5,1
+0,2,1,5
+0,1,2,5
+0,1,5,2

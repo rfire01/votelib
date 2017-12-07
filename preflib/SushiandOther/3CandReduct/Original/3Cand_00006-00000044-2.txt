@@ -1,0 +1,11 @@
+3
+1,Sirokhvatova Salmanov 
+2,Bestandigova Bestandig 
+4,Rodionova Anichenko 
+9,9,6
+6,4,2,1
+3,2,4,1
+0,2,1,4
+0,1,4,2
+0,4,1,2
+0,1,2,4

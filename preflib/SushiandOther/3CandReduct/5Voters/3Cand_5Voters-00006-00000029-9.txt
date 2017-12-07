@@ -1,0 +1,11 @@
+3
+1,Pang Tong 
+2,Vlandis Guzman 
+11,Nekrassova Mintals 
+5,5,6
+4,2,1,11
+1,2,11,1
+0,11,1,2
+0,1,11,2
+0,11,2,1
+0,1,2,11

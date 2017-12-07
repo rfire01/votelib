@@ -1,0 +1,11 @@
+3
+1,I 
+2,Caddyshack 
+4,Harry Potter and the Sorcerer's Stone 
+5,5,6
+1,2,4,1
+1,2,1,4
+1,4,1,2
+1,4,2,1
+0,1,4,2
+0,1,2,4

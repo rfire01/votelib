@@ -1,0 +1,11 @@
+3
+1,Gerencser Camerlengo 
+2,Smetanenko Gezalian 
+10,Chait Sakhnovsky 
+5,5,6
+3,10,1,2
+2,1,10,2
+0,1,2,10
+0,2,1,10
+0,10,2,1
+0,2,10,1

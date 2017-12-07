@@ -1,0 +1,11 @@
+3
+1,Kalesnik Terentjev 
+2,Hugentobler Hugentobler 
+4,Barany Rosnik 
+5,5,6
+3,4,2,1
+1,2,4,1
+1,4,1,2
+0,2,1,4
+0,1,4,2
+0,1,2,4

@@ -1,0 +1,11 @@
+3
+1,Sargeant And Wirtz 
+2,Abitbol And Bernadis 
+9,Zagorska And Siudek 
+5,5,6
+4,2,9,1
+1,2,1,9
+0,1,9,2
+0,9,2,1
+0,9,1,2
+0,1,2,9

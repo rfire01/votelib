@@ -1,0 +1,11 @@
+3
+2,National Lampoon's Animal House 
+3,National Lampoon's European Vacation 
+4,The Green Mile 
+625,625,6
+233,4,2,3
+210,2,4,3
+88,4,3,2
+61,2,3,4
+18,3,2,4
+15,3,4,2

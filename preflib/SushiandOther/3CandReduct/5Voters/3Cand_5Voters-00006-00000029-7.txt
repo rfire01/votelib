@@ -1,0 +1,11 @@
+3
+1,Pang Tong 
+2,Vlandis Guzman 
+9,Nikolaeva Sokolov 
+5,5,6
+3,9,2,1
+2,2,9,1
+0,2,1,9
+0,1,9,2
+0,9,1,2
+0,1,2,9

@@ -1,0 +1,11 @@
+3
+1,Szabolcs Vidrai 
+2,Takeshi Honda 
+5,Markus Leminen 
+7,7,6
+4,2,1,5
+3,1,2,5
+0,2,5,1
+0,5,2,1
+0,1,5,2
+0,5,1,2

@@ -1,0 +1,11 @@
+3
+1,Sargeant And Wirtz 
+2,Abitbol And Bernadis 
+11,Meno And Sand 
+9,9,6
+6,11,2,1
+3,2,11,1
+0,11,1,2
+0,1,11,2
+0,2,1,11
+0,1,2,11

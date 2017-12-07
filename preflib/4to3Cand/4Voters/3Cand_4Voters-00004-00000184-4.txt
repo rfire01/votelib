@@ -1,0 +1,11 @@
+3
+2,You've Got Mail 
+3,Waiting for Guffman 
+4,Harry Potter and the Sorcerer's Stone 
+4,4,6
+2,3,4,2
+1,4,3,2
+1,4,2,3
+0,3,2,4
+0,2,4,3
+0,2,3,4

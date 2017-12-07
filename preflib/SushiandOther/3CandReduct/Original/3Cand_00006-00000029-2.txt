@@ -1,0 +1,11 @@
+3
+1,Pang Tong 
+2,Vlandis Guzman 
+4,Lefrancois Osseland 
+9,9,6
+5,2,4,1
+4,4,2,1
+0,2,1,4
+0,1,4,2
+0,4,1,2
+0,1,2,4

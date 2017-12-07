@@ -1,0 +1,11 @@
+3
+1,Raising Helen 
+2,Monster's Ball 
+4,National Lampoon's European Vacation 
+3,3,6
+1,1,4,2
+1,4,1,2
+0,2,4,1
+0,1,2,4
+0,4,2,1
+0,2,1,4

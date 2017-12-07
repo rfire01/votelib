@@ -1,0 +1,11 @@
+3
+1,Rolloos Visser 
+2,Yang Lee 
+6,Gustafsson Gronlund 
+9,9,6
+4,6,2,1
+2,6,1,2
+1,2,1,6
+1,1,2,6
+1,2,6,1
+0,1,6,2

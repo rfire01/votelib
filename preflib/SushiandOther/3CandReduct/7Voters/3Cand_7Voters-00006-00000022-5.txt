@@ -1,0 +1,11 @@
+3
+1,Yosuke Takeuchi 
+2,Jose Alonso 
+7,Alexei Kozlov 
+7,7,6
+7,1,7,2
+0,7,2,1
+0,2,1,7
+0,2,7,1
+0,7,1,2
+0,1,2,7

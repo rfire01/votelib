@@ -1,0 +1,11 @@
+3
+1,Sargeant And Wirtz 
+2,Abitbol And Bernadis 
+5,Mcgrath And Carr 
+9,9,6
+9,2,1,5
+0,2,5,1
+0,1,2,5
+0,5,2,1
+0,1,5,2
+0,5,1,2

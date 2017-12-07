@@ -1,0 +1,11 @@
+3
+1,The Recruit 
+2,Monster's Ball 
+4,National Lampoon's Animal House 
+4,4,6
+2,4,1,2
+1,4,2,1
+0,2,4,1
+0,1,4,2
+0,1,2,4
+0,2,1,4

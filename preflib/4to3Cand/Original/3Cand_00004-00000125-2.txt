@@ -1,0 +1,11 @@
+3
+1,An Officer and a Gentleman 
+2,A Bug's Life 
+4,XXX: Special Edition 
+440,440,6
+207,2,1,4
+135,1,2,4
+44,2,4,1
+21,1,4,2
+19,4,2,1
+14,4,1,2

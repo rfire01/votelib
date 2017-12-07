@@ -1,0 +1,11 @@
+3
+1,National Lampoon's Vacation 
+2,Good Morning 
+4,Confessions of a Dangerous Mind 
+578,578,6
+193,1,2,4
+150,2,1,4
+96,2,4,1
+58,1,4,2
+46,4,2,1
+35,4,1,2

@@ -1,0 +1,11 @@
+3
+1,Sargeant And Wirtz 
+2,Abitbol And Bernadis 
+4,Rodionova And Anichenko 
+7,7,6
+7,2,1,4
+0,1,4,2
+0,4,2,1
+0,2,4,1
+0,4,1,2
+0,1,2,4

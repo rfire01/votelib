@@ -1,0 +1,11 @@
+3
+1,Berankova Dlabola 
+2,Filonenko Marchenko 
+3,Nekrassova Mintals 
+5,5,6
+5,2,1,3
+0,1,3,2
+0,3,1,2
+0,1,2,3
+0,3,2,1
+0,2,3,1

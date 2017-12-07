@@ -1,0 +1,11 @@
+3
+1,Juraj Sviatko 
+2,Patrick Schmit 
+11,Vakhtang Murvanidze 
+7,7,6
+5,2,11,1
+2,2,1,11
+1,11,2,1
+0,11,1,2
+0,1,11,2
+0,1,2,11

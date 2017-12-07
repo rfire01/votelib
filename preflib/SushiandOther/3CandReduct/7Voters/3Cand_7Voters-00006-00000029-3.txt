@@ -1,0 +1,11 @@
+3
+1,Pang Tong 
+2,Vlandis Guzman 
+5,Maksuta Zhovnirsky 
+7,7,6
+6,2,5,1
+1,5,2,1
+0,2,1,5
+0,1,2,5
+0,1,5,2
+0,5,1,2

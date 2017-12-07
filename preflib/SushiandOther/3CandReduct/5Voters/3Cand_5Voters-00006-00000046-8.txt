@@ -1,0 +1,11 @@
+3
+1,Chait Sakhnovsky 
+2,Punsalan Swallow 
+10,Fusar Poli Margaglio 
+5,5,6
+3,2,10,1
+2,10,2,1
+0,1,2,10
+0,2,1,10
+0,1,10,2
+0,10,1,2

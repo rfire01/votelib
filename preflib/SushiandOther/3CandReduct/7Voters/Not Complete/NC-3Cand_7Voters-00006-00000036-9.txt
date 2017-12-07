@@ -1,0 +1,11 @@
+3
+1,Szabolcs Vidrai 
+2,Takeshi Honda 
+11,Patrick Meier 
+7,7,6
+3,2,1,11
+2,11,1,2
+1,1,11,2
+1,2,11,1
+1,1,2,11
+0,11,2,1

@@ -1,0 +1,11 @@
+3
+1,National Lampoon's Vacation 
+2,Mission: Impossible II 
+4,The Exorcist 
+801,801,6
+257,4,1,2
+190,1,4,2
+118,4,2,1
+101,1,2,4
+76,2,1,4
+59,2,4,1

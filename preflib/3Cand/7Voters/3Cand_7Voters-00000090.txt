@@ -1,0 +1,11 @@
+3
+1,Taking Lives 
+2,Nothing to Lose 
+3,Bulletproof 
+7,7,6
+2,1,2,3
+1,1,3,2
+1,2,3,1
+1,2,1,3
+1,3,2,1
+1,3,1,2

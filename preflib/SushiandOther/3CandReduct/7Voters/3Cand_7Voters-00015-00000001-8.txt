@@ -1,0 +1,11 @@
+3
+1,ebi (shrimp) 
+2,anago (sea eel) 
+10,kappa-maki (cucumber roll) 
+7,7,6
+2,2,10,1
+1,10,2,1
+1,1,2,10
+1,2,1,10
+1,1,10,2
+1,10,1,2

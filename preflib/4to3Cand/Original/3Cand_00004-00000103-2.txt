@@ -1,0 +1,11 @@
+3
+1,An Officer and a Gentleman 
+2,Cheaper by the Dozen 
+4,The Green Mile 
+411,411,6
+214,4,1,2
+92,4,2,1
+60,1,4,2
+25,1,2,4
+14,2,4,1
+6,2,1,4

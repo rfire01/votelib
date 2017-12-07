@@ -1,0 +1,11 @@
+3
+1,Beverly Hills Cop 
+2,A Bug's Life 
+4,Cold Mountain 
+7,7,6
+2,2,1,4
+1,1,2,4
+1,2,4,1
+1,4,2,1
+1,4,1,2
+1,1,4,2

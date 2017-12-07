@@ -1,0 +1,11 @@
+3
+1,Beverly Hills Cop 
+2,The Silence of the Lambs 
+4,Mission: Impossible II 
+431,431,6
+294,2,1,4
+54,2,4,1
+46,1,2,4
+17,4,1,2
+13,1,4,2
+7,4,2,1

@@ -1,0 +1,11 @@
+3
+1,Krasiltseva Chestnikh 
+2,Nekrassova Mintals 
+5,Rodionova Anichenko 
+7,7,6
+7,5,2,1
+0,2,5,1
+0,2,1,5
+0,1,2,5
+0,1,5,2
+0,5,1,2

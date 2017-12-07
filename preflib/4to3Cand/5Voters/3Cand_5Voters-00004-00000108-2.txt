@@ -1,0 +1,11 @@
+3
+1,The Mummy Returns 
+2,The Adventures of Priscilla 
+4,Maid in Manhattan 
+5,5,6
+2,2,1,4
+1,2,4,1
+1,1,2,4
+1,1,4,2
+0,4,1,2
+0,4,2,1

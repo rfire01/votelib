@@ -1,0 +1,11 @@
+3
+1,Beverly Hills Cop 
+2,Raising Helen 
+4,The Green Mile 
+357,357,6
+164,4,1,2
+78,4,2,1
+61,1,4,2
+27,1,2,4
+14,2,4,1
+13,2,1,4

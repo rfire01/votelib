@@ -1,0 +1,11 @@
+3
+1,Rodionova And Anichenko 
+2,Lefrancois And Osseland 
+11,Savard Gagnon And Bradet 
+5,5,6
+4,11,2,1
+1,11,1,2
+1,1,2,11
+0,1,11,2
+0,2,1,11
+0,2,11,1

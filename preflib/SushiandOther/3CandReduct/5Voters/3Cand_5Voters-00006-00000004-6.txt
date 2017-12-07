@@ -1,0 +1,11 @@
+3
+1,Krasiltseva Chestnikh 
+2,Nekrassova Mintals 
+8,Berankova Dlabola 
+5,5,6
+5,8,2,1
+0,2,8,1
+0,1,2,8
+0,8,1,2
+0,1,8,2
+0,2,1,8

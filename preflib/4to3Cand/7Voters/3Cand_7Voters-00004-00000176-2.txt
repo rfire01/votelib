@@ -1,0 +1,11 @@
+3
+1,Beverly Hills Cop 
+2,The Lost World: Jurassic Park 
+4,Lethal Weapon 4 
+7,7,6
+3,1,4,2
+2,1,2,4
+1,4,1,2
+1,2,1,4
+0,4,2,1
+0,2,4,1

@@ -1,0 +1,11 @@
+3
+2,The Fifth Element 
+3,The Thomas Crown Affair 
+4,Intolerable Cruelty 
+379,379,6
+128,2,3,4
+105,3,2,4
+58,2,4,3
+49,3,4,2
+25,4,3,2
+14,4,2,3

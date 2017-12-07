@@ -1,0 +1,11 @@
+3
+1,Arikawa Miyamoto 
+2,Gustafsson Gronlund 
+10,Rolloos Visser 
+7,7,6
+6,1,2,10
+1,1,10,2
+0,2,1,10
+0,10,2,1
+0,2,10,1
+0,10,1,2

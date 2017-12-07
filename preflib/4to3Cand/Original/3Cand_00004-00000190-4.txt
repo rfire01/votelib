@@ -1,0 +1,11 @@
+3
+2,Monster's Ball 
+3,Top Gun 
+4,National Lampoon's European Vacation 
+535,535,6
+233,3,4,2
+115,3,2,4
+80,4,3,2
+54,2,3,4
+27,4,2,3
+26,2,4,3

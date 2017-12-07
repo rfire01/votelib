@@ -1,0 +1,11 @@
+3
+1,Planet of the Apes 
+2,Stigmata 
+4,Beetlejuice 
+5,5,6
+2,4,2,1
+1,4,1,2
+1,2,4,1
+0,2,1,4
+0,1,4,2
+0,1,2,4

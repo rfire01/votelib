@@ -1,0 +1,11 @@
+3
+1,Berankova Dlabola 
+2,Filonenko Marchenko 
+11,Obertas Palamarchuk 
+9,9,6
+6,2,1,11
+3,2,11,1
+0,11,1,2
+0,1,11,2
+0,11,2,1
+0,1,2,11

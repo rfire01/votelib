@@ -1,0 +1,11 @@
+3
+1,Rolloos Visser 
+2,Yang Lee 
+5,Steiner Steiner 
+5,5,6
+3,5,2,1
+2,5,1,2
+0,2,5,1
+0,2,1,5
+0,1,2,5
+0,1,5,2

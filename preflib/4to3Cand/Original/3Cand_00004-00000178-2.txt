@@ -1,0 +1,11 @@
+3
+1,The Silence of the Lambs 
+2,Son in Law 
+4,National Lampoon's European Vacation 
+366,366,6
+238,1,4,2
+82,1,2,4
+21,4,1,2
+16,2,1,4
+5,2,4,1
+4,4,2,1

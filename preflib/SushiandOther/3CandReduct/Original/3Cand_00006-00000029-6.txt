@@ -1,0 +1,11 @@
+3
+1,Pang Tong 
+2,Vlandis Guzman 
+8,Kowalska Rozycki 
+9,9,6
+9,2,1,8
+0,8,2,1
+0,2,8,1
+0,1,2,8
+0,8,1,2
+0,1,8,2
